@@ -34,12 +34,12 @@ namespace Control_Statements
             //     break;
             // }
             // while loop execution
-            // int a = 10;
-            // while (a < 20)
-            // {
-            //     Console.WriteLine("value of a: {0} is"  + a);
-            //     a++;
-            // }
+            int a = 10;
+            while (a < 20)
+            {
+                Console.WriteLine("value of a: is"  + a);
+                a++;
+            }
             // int a = 12;
             // do  {
             //     Console.WriteLine("value of a is "  + a);
@@ -55,11 +55,11 @@ namespace Control_Statements
             //     Console.WriteLine(a);
             // }
             // for each loop is used to iterate over arrays and lists
-            string[] cars = {"volvo", "toyota", "bmw"};
-            foreach (string i in cars)
-            {
-                Console.WriteLine(i);
-            }
+            // string[] cars = {"volvo", "toyota", "bmw"};
+            // foreach (string i in cars)
+            // {
+            //     Console.WriteLine(i);
+            // }
            
              
         }
